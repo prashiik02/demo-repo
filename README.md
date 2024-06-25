@@ -6,3 +6,7 @@ adding one more line!
 one more line 
 hello world!
 
+## Development Enviorment
+
+make sure you have javascript available 
+Rune index.html in browser
